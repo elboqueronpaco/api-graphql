@@ -4,7 +4,7 @@
    "port": 3306,
    "username": "digitalpaco",
    "password": "Ocap_5791",
-   "database": "headless_cms",
+   "database": "dp_cms",
    "synchronize": true,
    "logging": false,
    "entities": [
